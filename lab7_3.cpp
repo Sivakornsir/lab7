@@ -2,11 +2,8 @@
 using namespace std;
 
 char before(char x){
-if(x<65||x>90){return 48;}
-if((int)x>65){return (int)x-1;}
-return 90;
+	//Write your function definition here
 }
-
 
 int main(){
 	//Test Case
